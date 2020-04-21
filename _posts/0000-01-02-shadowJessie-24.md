@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our slide!"
 ---
-Your text
+Jessie is my dog.
 Use the left arrow to go back!
+
